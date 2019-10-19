@@ -14,8 +14,5 @@ This blog is where he'd like to share some of those thoughts with you.
 
 For more details, head over to Serge's website at [body-mind.net.au][1]. If you're interested in training with Serge, check it out [here][2].
 
-![A linked facebook logo][logo =256X256]
-
 [1]:    http://body-mind.net.au/Home.html
 [2]:    http://body-mind.net.au/Fees%26Location.html
-[logo]: https://www.shareicon.net/data/2017/06/28/888049_logo_512x512.png "Facebook Logo"
