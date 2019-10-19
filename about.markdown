@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Us
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Since 1965, Shi Fu Serge has been training students in Shaolin at the University of Sydney.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In that time, he's gathered some thoughts on the subjects taught; buddhist philosophy, unarmed combat, stick fighting and posture and energy.
 
+This blog is where he'd like to share some of those thoughts with you.
 
-[jekyll-organization]: https://github.com/jekyll
+For more details, head over to Serge's website at [body-mind.net.au][1]. If you're interested in training with Serge, check it out [here][2].
+
+![A linked facebook logo][logo =256X256]
+
+[1]:    http://body-mind.net.au/Home.html
+[2]:    http://body-mind.net.au/Fees%26Location.html
+[logo]: https://www.shareicon.net/data/2017/06/28/888049_logo_512x512.png "Facebook Logo"
