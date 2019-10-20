@@ -30,7 +30,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Esoteric tantric Buddhism. Kempo Karate Club. Shaolin master ( shi fu ) Serge Martich-Osterman.
 baseurl: "/shaolinhealth" # the subpath of your site, e.g. /blog
 url: "https://xsamhallx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mrbigtallguy
 facebook_username: shaolinaustralia
 timezone: Australia/ACT
 
