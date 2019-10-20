@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Us
-
 Since 1965, Shi Fu Serge has been training students in Shaolin at the University of Sydney.
 
 In that time, he's gathered some thoughts on the subjects taught; buddhist philosophy, unarmed combat, stick fighting and posture and energy.
