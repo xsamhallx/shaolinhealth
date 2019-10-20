@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shifu Serge
+title: Shaolin Health
 email: shaolinbodymind@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Learn Shaolin Kung Fu. At Sydney University since 1965. Self Defence using traditional oriental
