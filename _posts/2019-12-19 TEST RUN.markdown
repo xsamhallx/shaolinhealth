@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Test Run"
+date:   2019-12-19 17:07:00 +1000
+edited: 2019-12-19 16:52:00 +1000
+categories: Philosophy
+---
+
 **TEST RUN**  
 **Stefan set up my ‘Idiots Guide to the Blog.’ Does it work?**
 
