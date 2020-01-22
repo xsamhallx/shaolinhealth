@@ -16,3 +16,6 @@ git config --global credential.helper osxkeychain
 
 # Install Pandoc
 brew install pandoc
+
+# Install pandoc filter lib
+pip install pandocfilters
