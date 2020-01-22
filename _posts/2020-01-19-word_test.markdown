@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "The Names of God 2"  
-date: 2019-10-20 13:18:00 +1000  
+date: 2019-10-22 13:18:00 +1000  
 categories: Philosophy  
 ---
 
