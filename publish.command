@@ -4,15 +4,19 @@ basedir=$(dirname "$0")
 cd "${basedir}" || exit
 
 echo "converting documents to markdown"
+echo "---------------------------------------"
+
 documentExt=".docx"
-for fileName in _posts/*"${documentExt}"
+for fileName in _posts/[0-9]*"${documentExt}"
 do
   if [[ -f $fileName ]]; then
     newFileName=${fileName%"${documentExt}"}.markdown
-    pandoc --from docx --to gfm-bracketed_spans-raw_html-native_spans "${fileName}" --output "${newFileName}"
+    pandoc --wrap=preserve --from docx --filter front-matter-filter.py --to gfm "${fileName}" --output "${newFileName}"
+    echo "converted '${fileName}' to '${newFileName}'"
   fi
 done
 
+echo "---------------------------------------"
 echo "publishing markdown documents to github"
 git add _posts/*.markdown
 user=$(git config user.name)
