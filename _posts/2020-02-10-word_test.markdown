@@ -1,9 +1,11 @@
 ---  
 layout: post  
 title: "The Names of God 2"  
-date: 2019-10-22 13:18:00 +1000  
+date: 2020-02-10 13:18:00 +1000  
 categories: Philosophy  
 ---
+
+Testing *publishing* a **blog** entry...
 
 **Yesterday, one of my Jewish friends (Pāli: kalyāṇa-mitta; Sanskrit: kalyāṇa-mitra) rang and refreshed my memory concerning Anochi (אָנֹכִי) a word that some Hebrew scholars consider a 'name' of God. The word is purportedly of Egyptian origin and this fact sits ill with some Jews. It is an intensive and specific form of the first pronoun singular 'I'. My friend had raised the topic during Sukkot (Feast of the Tabernacles) at the Bondi Yeshiva.**
 
