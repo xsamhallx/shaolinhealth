@@ -3,6 +3,8 @@
 basedir=$(dirname "$0")
 cd "${basedir}" || exit
 
+python --version
+
 echo "converting documents to markdown"
 echo "---------------------------------------"
 
